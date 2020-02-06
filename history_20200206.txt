@@ -1,0 +1,53 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/ErvinsLazdins/RTR108
+    4  ls
+    5  python -m http.server 8000 &
+    6  ps -aux 
+    7* 
+    8  python --version
+    9  ps -aux | grep 8000
+   10  kill 2068
+   11  kill -9 2068
+   12  ps -aux | grep 8000
+   13  ls -l
+   14* 
+   15* 
+   16  nano index.html
+   17  ls 0l
+   18  ls 
+   19  ls -lt
+   20* 
+   21  python -m http.server 8000 &
+   22  ps -aux | grep 8000
+   23  nano index.html
+   24  if config; ip config; if config; if config; ip config; ifconfig; ifconfig; ls
+   25  python -m http.server 8000 &
+   26  ifconfig
+   27  pwd
+   28  ls 0lt ..
+   29  ls -lt ../../Downloads
+   30  ls
+   31  cd ..
+   32  ls
+   33  cd `
+ls
+ls
+cd
+   34  ls
+   35  cd Documents/
+   36  ls
+   37  cd ..
+   38  ls
+   39  cd Downloads
+   40  ls
+   41  unzip ~/Downloads/ngrok-stable-linux-amd64.zip 
+   42  ls
+   43  cd ..
+   44  cd RTR108/
+   45  ls
+   46  ./ngrok http 8000 
+   47  ps -aux | grep 8000
+   48  ./ngrok http 8000 
+   49  history_20200206.txt
+   50  history > history_20200206.txt
